@@ -26,42 +26,38 @@
 <h3 align="left">🚀 Featured Projects</h3>
 
 <details>
-  <summary><strong>Alumni Network Platform</strong> - Fostering community engagement</summary>
+  <summary><strong>reStyle - E-commerce Platform for Sustainable Fashion</strong></summary>
   <br/>
   <p>
-    A responsive web application built with React and Supabase. Features real-time chat, an alumni directory, event management, and secure user authentication to keep university alumni connected.
-    <br/>
-    <a href="[YOUR_ALUMNI_PROJECT_REPO_LINK]" target="_blank"><strong>GitHub Repository</strong></a>
+    A full-stack e-commerce platform promoting sustainable fashion by creating a marketplace for users to buy and sell pre-loved and redesigned apparel. The system features distinct dashboards for customers, managers, and delivery agents to streamline operations from listing to delivery.
+    <br/><br/>
+    <strong>Tech Stack:</strong> React, Tailwind CSS, Node.js, Express.js, Supabase, and Cloudinary.
+    <br/><br/>
+    <a href="https://github.com/suryanshrai1/reStyle" target="_blank"><strong>GitHub Repository</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>Community Messaging Platform</strong> - Real-time, secure messaging</summary>
+  <summary><strong>IssueTrackr – Help Desk Ticketing System</strong></summary>
   <br/>
   <p>
-    A full-stack messaging app built with Next.js and Supabase. It includes custom blockchain logic for hashed message storage and chain validation, ensuring data integrity. Features authentication, user profiles, and a real-time public feed.
-    <br/>
-    <a href="[YOUR_MESSAGING_PROJECT_REPO_LINK]" target="_blank"><strong>GitHub Repository</strong></a>
+    A modern, full-stack help-desk platform designed to streamline issue reporting and resolution. It features robust JWT authentication, role-based access control (user, agent, admin), and a complete ticket management lifecycle with up-voting, comments, and status tracking.
+    <br/><br/>
+    <strong>Tech Stack:</strong> React, Node.js, Express, Supabase, and Tailwind CSS.
+    <br/><br/>
+    <a href="https://github.com/suryanshrai1/IssueTrackr" target="_blank"><strong>GitHub Repository</strong></a>
   </p>
 </details>
 
 <details>
-  <summary><strong>AI Chatbot Assistant</strong> - Enhancing institutional efficiency</summary>
+  <summary><strong>KIRA-AI - Intelligent Chatbot Assistant</strong></summary>
   <br/>
   <p>
-    An intelligent, automated chatbot designed to integrate with an institution’s database. It reduces staff workload, enhances operational efficiency, and improves user satisfaction by providing instant, accurate responses.
-    <br/>
-    <a href="[YOUR_CHATBOT_PROJECT_REPO_LINK]" target="_blank"><strong>GitHub Repository</strong></a>
-  </p>
-</details>
-
-<details>
-  <summary><strong>Tours & Travel Website</strong> - Your personalized travel planner</summary>
-  <br/>
-  <p>
-    A comprehensive travel booking platform that offers customized travel packages. Built to be user-friendly, it helps users discover and book travel plans tailored to their unique preferences and needs.
-    <br/>
-    <a href="[YOUR_TRAVEL_PROJECT_REPO_LINK]" target="_blank"><strong>GitHub Repository</strong></a>
+    An AI-powered chatbot built with a Flask backend and a responsive vanilla JS frontend. KIRA integrates the Google Gemini API to provide intelligent text/image generation, PDF/image analysis, voice input/output, and context memory for a dynamic conversational experience.
+    <br/><br/>
+    <strong>Tech Stack:</strong> Python, Flask, Google Gemini API, HTML, CSS, JavaScript.
+    <br/><br/>
+    <a href="https://github.com/suryanshrai1/kira-ai-chatbot" target="_blank"><strong>GitHub Repository</strong></a>
   </p>
 </details>
 
@@ -79,11 +75,12 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 </p>
 
