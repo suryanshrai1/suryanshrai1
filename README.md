@@ -16,7 +16,7 @@
 
 - 🏢 I'm the **Technical Coordinator** at <a href="[LINK_TO_GITHUB_CLUB_SU]"><b>GitHub Club SU</b></a> and a core member of <b>Technova SU</b>.
 - 🔭 I’m currently building full-stack solutions and exploring the intersections of **AI and Web Development**.
-- 🌱 I’m currently learning the **German Language** and diving deeper into **Cyber Security**.
+- 🌱 I’m currently learning the **German Language** and diving deeper into **AI/ML**.
 - 👯 I’m looking to collaborate on innovative **open-source projects**.
 - 📫 How to reach me: **suryanshrai25@gmail.com**
 - ⚡ Fun fact: I love to play **Volleyball**!
