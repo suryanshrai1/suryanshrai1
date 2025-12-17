@@ -25,6 +25,18 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+<details open>
+  <summary><strong>PeerIQ – Peer-to-Peer Learning & Collaboration Platform</strong></summary>
+  <br/>
+  <p>
+    A comprehensive educational ecosystem facilitating real-time student collaboration. It integrates instant messaging, video conferencing via Jitsi Meet, and a resource-sharing hub with automated file categorization. Features include a networking system for peer discovery and managed study groups with role-based administrative controls.
+    <br/><br/>
+    <strong>Tech Stack:</strong> React 18, Tailwind CSS, Firebase (Firestore, Auth, Realtime Updates), Jitsi Meet API, and Framer Motion.
+    <br/><br/>
+    <a href="https://github.com/suryanshrai1/PeerIQ" target="_blank"><strong>GitHub Repository</strong></a>
+  </p>
+</details>
+
 <details>
   <summary><strong>reStyle - E-commerce Platform for Sustainable Fashion</strong></summary>
   <br/>
