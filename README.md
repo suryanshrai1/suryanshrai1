@@ -9,12 +9,12 @@
 ---
 
 <p align="left">
-  As a Full Stack Developer and the Technical Coordinator at <b>GitHub Club SU</b>, I thrive on building scalable web applications and solving real-world problems. My experience spans from leading technical workshops to contributing to open-source projects, with a strong foundation in Java, React, and modern web technologies.
+  As a Full Stack Developer and the President at <b>GitHub Club SU</b>, I thrive on building scalable web applications and solving real-world problems. My experience spans from leading technical workshops to contributing to open-source projects, with a strong foundation in Java, React, and modern web technologies.
 </p>
 
 ---
 
-- 🏢 I'm the **Technical Coordinator** at <a href="[LINK_TO_GITHUB_CLUB_SU]"><b>GitHub Club SU</b></a> and a core member of <b>Technova SU</b>.
+- 🏢 I'm the **President** at <a href="[LINK_TO_GITHUB_CLUB_SU]"><b>GitHub Club SU</b></a> and a core member of <b>Technova SU</b>.
 - 🔭 I’m currently building full-stack solutions and exploring the intersections of **AI and Web Development**.
 - 🌱 I’m currently learning the **German Language** and diving deeper into **AI/ML**.
 - 👯 I’m looking to collaborate on innovative **open-source projects**.
